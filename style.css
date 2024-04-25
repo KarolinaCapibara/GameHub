@@ -8,7 +8,6 @@ header {
     background-color: rgb(44, 44, 44);
 }
 
-
 header h1{
     background-color: rgb(59, 59, 59);
     font-family: cursive;
@@ -19,7 +18,6 @@ header h1{
 
 
 nav{
-    
   margin: 10px 0px;
    text-align: center;
    padding: 10px;
@@ -105,6 +103,17 @@ footer img {
 .image-wrapper a {
     text-align: center;
 }
+
+
+
+
+
+    
+
+
+
+
+
 
 
 
